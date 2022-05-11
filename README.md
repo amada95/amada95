@@ -1,0 +1,5 @@
+- 👋 heyo! i'm amada
+- ✨ she/her/they
+- 🌱 currently studying computer science
+- 👀 interested in open-source systems architecture
+- 📫 contact me at twogardens@protonmail.com
